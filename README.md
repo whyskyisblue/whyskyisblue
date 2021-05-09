@@ -13,7 +13,7 @@
 </p>
 
 </br></br></br>
-![WhySkyIsBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyskyisblue&show_icons=true&theme=radical)</br>
+![WhySkyIsBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyskyisblue&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyskyisblue&theme=radical&layout=compact)](https://github.com/whyskyisblue/github-readme-stats)
 
 <!--
