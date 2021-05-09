@@ -14,7 +14,10 @@
 
 </br></br></br>
 ![WhySkyIsBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyskyisblue&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyskyisblue&theme=radical&layout=compact)](https://github.com/whyskyisblue/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyskyisblue&theme=radical&layout=compact)](https://github.com/whyskyisblue)
+<a href="https://github.com/whyskyisblue/intellij_setting">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whyskyisblue&theme=radical&repo=intellij_setting" />
+</a>
 
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
