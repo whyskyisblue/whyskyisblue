@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=WHYSKYISBLUE&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=300&section=header&text=WHYSKYISBLUE&fontSize=90&animation=fadeIn&fontColor=171616)
 
 
 <h2 align="center">
