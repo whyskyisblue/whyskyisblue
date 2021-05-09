@@ -12,6 +12,10 @@
   <a><img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 </p>
 
+</br></br></br>
+![WhySkyIsBlue's GitHub stats](https://github-readme-stats.vercel.app/api?username=whyskyisblue&show_icons=true&theme=radical)</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whyskyisblue&theme=radical&layout=compact)](https://github.com/whyskyisblue/github-readme-stats)
+
 <!--
 **shinplest/shinplest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
